@@ -1,4 +1,4 @@
-# Bem vindo ao repositório do projeto do Mercado Louco!
+# Bem vindo ao repositório do projeto Mercado Louco!
 
 ![Gif da aplicação](/assets/aplication.gif)
 
